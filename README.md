@@ -43,4 +43,4 @@ A macroeconomic analysis of Ghana's fiscal trajectory since 2008 using Godley's 
 ## Contact
 
 Open to conversations on climate finance, agricultural development, and multilateral/DFI research roles.
-+447598928058| ayeligadavid@gmail.com | www.linkedin.com/in/davidayeliga 
+ayeligadavid@gmail.com | www.linkedin.com/in/davidayeliga 
