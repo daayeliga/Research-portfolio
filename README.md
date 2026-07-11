@@ -1,46 +1,31 @@
-# David Ayuuya Ayeliga
+# UK Biodiversity Net Gain: Commercial Viability & India Scalability
 
-**MSc Development Economics (International Finance), SOAS University of London**
-Research Assistant, SOAS Centre for Sustainable Finance · Agricultural, Climate & Development Finance
+**Prepared for:** Sachin Nandha, Director General, Institute for Cultural and Strategic Studies (ICfS)
+**Author:** David Ayuuya Ayeliga | June 2026
 
-📍 Ghana / London | 🎓 SOAS Recognition Scholar | 🌾 Founder, AgriYouth Network Ghana
+## Overview
 
----
+This project assesses whether the UK's statutory **Biodiversity Net Gain (BNG)** habitat-banking model — in which developers must purchase Biodiversity Units to offset the ecological impact of development, under the Environment Act 2021 — is commercially viable, ecologically credible, and scalable to a very different regulatory and land-tenure context: **India**.
 
-## About Me
+The work combines a financial model of a representative habitat bank, a policy note synthesising market and regulatory evidence, and a presentation summarising findings and recommendations.
 
-I work at the intersection of **development economics, climate finance, and agricultural transformation**, with a particular focus on how public and blended capital can be structured to de-risk private investment in climate-vulnerable, agriculture-dependent economies.
+## Contents
 
-I am completing an MSc in Development Economics (International Finance) at SOAS, where I also work as a Research Assistant at the **Centre for Sustainable Finance** under Prof. Ulrich Volz and Dr. Yuen Lo, researching accreditation barriers to the Green Climate Fund (GCF) and the role of national development banks in mobilising multilateral climate finance. My dissertation models repurposed agricultural subsidies as de-risking capital for private climate finance mobilisation in Ghana, combining a Heckman-corrected probit on national household microdata, an interrupted time series analysis of Ghana's subsidy phase-out, and a Monte Carlo mobilisation-multiplier model.
+| File | Description |
+|---|---|
+| `BNG_Analytical_Note.pdf` / `.docx` | Full written analysis: business model and revenue logic, environmental evidence, key commercial and ecological risks, and a detailed assessment of India scalability with a recommended Compliance-PPP transition model |
+| `BNG_Financial_Model.xlsx` | Underlying financial model of a 50-hectare habitat bank site — biodiversity unit generation, revenue scenarios, cost structure, and cash-flow sensitivity |
+| `BNG_Presentation.pptx` | Slide summary of the business model, market evidence, and recommendations |
 
-Before SOAS, I worked at **FCDO Ghana** on stakeholder engagement and programme budget tracking, and at **Ghana's Ministry of Food and Agriculture** on a KfW/GIZ-funded revolving credit facility for smallholder farmers. I hold a First Class BSc in Agricultural Economics from KNUST (top 1% of department) and a Certificate in Economics for Foreign Policy from Oxford's Blavatnik School.
+## Key Findings
 
-Alongside my academic and research work, I founded **AgriYouth Network Ghana**, which has trained 300+ smallholder farmers (majority women loan applicants) and represented Ghanaian youth agriculture at the World Food Forum/FAO. I have also conceptualised **DavaImpact CIC**, a UK-based advisory vehicle spanning agri-finance, carbon finance, and Biodiversity Net Gain.
+- The UK model is commercially sound because demand is **compliance-driven**: developers cannot proceed without an approved Biodiversity Gain Plan, and government fallback credits are priced well above the private market band, creating a durable price floor.
+- On the modelled 50-hectare site, restoration unlocks 260.94 surplus Biodiversity Units, generating a 5-year cumulative net return of £15.46 million against £475,000 in costs — though revenue is concentrated in Year 3 and requires bridging finance to cover a peak deficit.
+- **Direct replication in India is not viable**: smallholder land fragmentation prevents 50–100 hectare aggregation, the 2025 Green Credit Rules made credits non-tradable outside compensatory afforestation, and there is no mandatory offset metric creating developer demand.
+- India does, however, have a strong case for a **Compliance-PPP Transition Model**, channelling corporate CSR and compensatory afforestation capital through private ecological intermediaries partnered with State Forest Departments — leveraging India's four global biodiversity hotspots and fast-growing biodiversity credit market.
 
-My long-term goal is a research and policy career in **multilateral development finance** — working toward a PhD in development economics and, ultimately, a senior economist role shaping how climate and agricultural finance are structured for the world's most exposed economies.
+## Methods & Frameworks
 
----
+Statutory BNG/Biodiversity Metric analysis, comparative regulatory review (UK Environment Act 2021 vs. India's Green Credit Rules, Forest Conservation Act 1980, Forest Rights Act 2006, SEBI BRSR framework), financial scenario modelling, and offset-market integrity literature (additionality, baseline gaming).
 
-## Featured Projects
-
-### 🌳 [UK Biodiversity Net Gain: Commercial Viability & India Scalability](./01-biodiversity-net-gain-icfs)
-A policy note, financial model, and presentation assessing the commercial and ecological logic of the UK's statutory Biodiversity Net Gain habitat-banking market, and testing its scalability to India. Prepared as a research deliverable for the Institute for Cultural and Strategic Studies (ICfS), Director General's Office.
-
-### 📉 [Ghana's Fiscal Policy Since the Global Financial Crisis & Ecological Macro Modelling](./02-ghana-fiscal-policy-ecological-macro)
-A macroeconomic analysis of Ghana's fiscal trajectory since 2008 using Godley's financial balances approach, Thirlwall's Law, and debt-overhang theory — paired with an R-based stock-flow-fund ecological macroeconomic model (DEFINE-SIMPLE) testing carbon tax and degrowth policy scenarios. Written for the MSc Development Economics Advanced Macroeconomics module.
-
----
-
-## Skills & Tools
-
-- **Quantitative / Econometric:** R (fixest, AER, quantreg, custom stock-flow-fund modelling), Heckman selection models, interrupted time series, Monte Carlo simulation, Excel/VBA financial modelling
-- **Policy & Research:** Policy briefs, research reports, comparative institutional analysis, dissertation-scale mixed-methods design
-- **Domain expertise:** Climate finance mobilisation, GCF/multilateral fund accreditation, agricultural and blended finance, national development banks, biodiversity/nature finance
-- **Communication:** PowerPoint/technical presentations, stakeholder engagement, grant and programme reporting
-
----
-
-## Contact
-
-Open to conversations on climate finance, agricultural development, and multilateral/DFI research roles.
-ayeligadavid@gmail.com | www.linkedin.com/in/davidayeliga 
+*AI Disclosure: Claude (Anthropic) was used to support research synthesis; all analysis, calculations, and judgements reflect the author's own assessment.*
